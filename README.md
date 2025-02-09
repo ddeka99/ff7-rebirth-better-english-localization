@@ -55,7 +55,7 @@ This tool is used for repackaging modified `.uasset` files into `.pak` mods.
 1. Run `FF7Rebirth UnrealReZen Companion.bat`.
 2. Configure paths in the terminal:
    - `gamePaksFolderConfig`: Set this to `<some-parent-location>/FINAL FANTASY VII REBIRTH\End\Content\Paks`.
-   - `modFolderConfig`: Set this to where your modified `.uasset` files are stored, e.g., `<some-parent-location>/BetterEnglishLocalization_P/End/Content/Text/US/4000-MIDGR_TxtRes.uasset`.
+   - `modFolderConfig`: Set this to where your mod is, e.g., `<some-parent-location>/BetterEnglishLocalization_P`. Within this, the modified `.uasset` files are stored, e.g., `<some-parent-location>/BetterEnglishLocalization_P/End/Content/Text/US/4000-MIDGR_TxtRes.uasset`.
    - `modOutFolderConfig`: Set this to the output mod directory, e.g., `<some-parent-location>/FINAL FANTASY VII REBIRTH\End\Content\Paks\~mods`.
 3. Run the tool to generate the `BetterEnglishLocalization_P` mod archive, which includes `.pak`, `.utoc`, and `.ucas` files.
 4. The game will now load the modified dialogue from the `~mods` directory.
