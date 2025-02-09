@@ -1,5 +1,7 @@
 # FF7 Rebirth - Better English Localization
 
+IMPORTANT NOTE: Very early stages of development. Not ready for use.
+
 This repository is dedicated to developing a more faithful English localization for *Final Fantasy VII REBIRTH*.
 
 ## Overview
@@ -48,7 +50,7 @@ This tool allows viewing Unreal Engine game packages, folder structures, and ass
 
 This tool is used for repackaging modified `.uasset` files into `.pak` mods.
 
-#### Steps:
+#### Steps
 
 1. Run `FF7Rebirth UnrealReZen Companion.bat`.
 2. Configure paths in the terminal:
