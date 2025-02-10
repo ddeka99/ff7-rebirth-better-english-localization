@@ -1,6 +1,6 @@
 # FF7 Rebirth - Better English Localization
 
-IMPORTANT NOTE: Very early stages of development. Not ready for use.
+Check progress on the [FF7 Rebirth English Localization Progress](https://docs.google.com/spreadsheets/d/1A6S3sNYxN7QMl2264053-AeXuMtmaZicaE6KibpsUT8/edit?gid=0#gid=0).
 
 This repository is dedicated to developing a more faithful English localization for *Final Fantasy VII REBIRTH*.
 
