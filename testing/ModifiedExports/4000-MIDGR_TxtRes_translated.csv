@@ -1,0 +1,746 @@
+id,translation
+$C1910_MAIN_0200_0100_00_kre,I heard the tornado swallowed up all of Midgar!
+$C1910_MAIN_0200_0200_00_mma,I heard it was an explosion of some sort.
+$C1910_MAIN_0200_0300_00_kre,Maybe the tornado caused the explosion?
+$C1910_MAIN_0200_0400_00_mma,Things keep happening one after another.
+$C1910_MAIN_0200_0401_00_mma,<i>Midgar is currently facing an unprecedented crisis.</i>
+$C1910_MAIN_0200_0402_00_mma,<i>There have been multiple reactor bombings...</i>
+$C1910_MAIN_0200_0403_00_mma,<i>followed by the collapse of the Sector 7 plate...</i>
+$C1910_MAIN_0200_0404_01_mma,"caused by a massive tornado that swept through Sectors 0, 1, and 2."
+$C1910_MAIN_0200_0404_00_mma,culminating in this unprecedented destruction...
+$C1910_MAIN_0200_0405_00_mma,<i>We will continue our live coverage from the scene.</i>
+$C1910_MAIN_0200_0406_00_mma,"Amidst the wreckage of the expressway, Shinra troops are conducting search and rescue operations."
+$C1910_MAIN_0200_0410_00_skm,We still have one person missing: an ex-SOLDIER.
+$C1910_MAIN_0200_0420_00_skm,"Armed with a large sword, the Buster Sword, and considered highly dangerous."
+$C1910_MAIN_0200_0421_00_skm,"<i>Repeat: the fugitive is an ex-SOLDIER, armed with a Buster Sword.</i>"
+$C1910_MAIN_0200_0440_00_mma,"Hey, over there!"
+$C1910_MAIN_0200_0442_00_mma,Could those be rescued survivors?
+$C1910_MAIN_0200_0470_00_mma,This is bad. Point the camera away!
+$C1910_MAIN_0200_0481_00_skm,Contact the rescue team!
+$C1910_MAIN_0200_0482_00_skm,We've secured the targets. Returning via helicopter now.
+$C1910_MAIN_0200_0483_00_skm,Hurry up! We're taking off!
+$C1910_MAIN_0200_0600_00_skm,"Hey, what are you doing?!"
+$C1910_MAIN_0200_0620_00_mma,The helicopter is taking off now.
+$C1910_MAIN_0200_0640_00_mma,Looks like they're heading towards Sector 5!
+$C1910_MAIN_0200_0650_00_skm,"You just don't know when to quit, do you!?"
+$C1910_MAIN_0200_0700_00_zax,'Scuse me!
+$C1910_MAIN_0200_0710_00_zax,Could you watch my friend for a bit? I'll be right back.
+$C1910_MAIN_0200_0800_00_zax,"My friend here has mako poisoning, but he'll be okay."
+$C1910_MAIN_0200_0900_00_kre,Hey!
+$C1910_MAIN_0300_0100_00_zax,Aerith!
+$C1910_MAIN_0310_0100_00_skm,Emergency request! Confirmed crash of Avalanche transport helicopter.
+$C1910_MAIN_0310_0200_00_skm,"All nearby units, proceed to the scene immediately. Do not let the suspects escape!"
+$C1910_MAIN_0310_0300_00_skm,One member of Avalanche is a former SOLDIER carrying a buster sword.
+$C1910_MAIN_0310_0310_00_skm,He might be hiding near the crash site.
+$C1910_MAIN_0310_0320_00_skm,Stay on high alert.
+$C1910_MAIN_0310_0400_00_skm,Prepare for potential counter-attacks from Avalanche and their allies!
+$C1910_MAIN_0310_0500_00_skm,I repeat...
+$C1910_MAIN_0400_0100_00_skm,"Stay alert, it might act up again."
+$C1910_MAIN_0400_0200_00_skm,Clear!
+$C1910_MAIN_0400_0300_00_skm,"Alright, move her out."
+$C1910_MAIN_0400_0400_00_zax,Let go of her!
+$C1910_MAIN_0410_0100_00_skm,"Look, a Buster Sword!"
+$C1910_MAIN_0410_0200_00_skm,Avalanche scum!
+$C1910_MAIN_0410_0300_00_skm,Our target is the Ancient! Prioritize securing her.
+$C1910_MAIN_0410_0400_00_skm,"This is Helicopter Five, requesting reinforcements! Engaged with Avalanche at the crash site."
+$C1910_MAIN_0410_0500_00_skm,"Crash site is near the Sector 5 slum gate. All units, proceed to the location!"
+$C1910_MAIN_0410_0600_00_skm,I repeat—
+$C1910_MAIN_0420_0050_00_skm,First unit confirmed neutralized!
+$C1910_MAIN_0420_0060_05_skm,Move out!
+$C1910_MAIN_0420_0060_00_skm,Deploying second unit. Still requesting backup.
+$C1910_MAIN_0420_0100_00_zax,This is bad.
+$C1910_MAIN_0420_0200_00_skm,"Attention, Avalanche! Cease resistance and surrender immediately."
+$C1910_MAIN_0420_0300_00_zax,Shut up!
+$C1910_MAIN_0420_0400_00_skm,What the...?
+$C1910_MAIN_0420_0500_00_skm,"Don't falter, attack!"
+$C1910_MAIN_0500_0100_00_zax,Thanks.
+$C1910_MAIN_0500_0200_00_skm,Where's the Ancient!?
+$C1910_MAIN_0500_0300_00_skm,Heads are gonna roll if we don't find her.
+$C1910_MAIN_0500_0400_00_skm,Stop loafing around! Search!
+$C1910_MAIN_0500_0500_00_zax,What is this...?
+$C1910_MAIN_0500_0600_00_zax,What's going on?
+$C1910_MAIN_0500_0700_00_zax,"Aerith, I'm back."
+$C2510_MAIN_1600_0100_00_zax,Huh?
+$C2510_MAIN_1600_0200_00_elm,Let me in.
+$C2510_MAIN_1700_0100_00_zax,Elmyra?
+$C2510_MAIN_1700_0200_00_elm,"Zack, right?"
+$C2510_MAIN_1700_0300_00_zax,Yeah...
+$C2510_MAIN_1700_0400_00_elm,Where's Aerith?
+$C2510_MAIN_1700_0500_00_zax,Upstairs...
+$C2510_MAIN_1800_0100_00_elm,I'm taking her back home.
+$C2510_MAIN_1800_0200_00_zax,Now slow down. I've checked your place.<br>Shinra has it under surveillance.
+$C2510_MAIN_1800_0300_00_elm,Not anymore.<br>They've got bigger problems now.
+$C2510_MAIN_1800_0400_00_zax,But─
+$C2510_MAIN_1800_0500_00_elm,"You can't take care of her, can you?"
+$C2510_MAIN_1800_0600_00_zax,'Course I can! Look at Cloud!<br>I've been looking after─
+$C2510_MAIN_1800_0700_00_elm,"No, you haven't!"
+$C2510_MAIN_1800_0710_00_elm,Look at Aerith's skin.
+$C2510_MAIN_1800_0800_00_elm,"It's all dry, and look at this dirt!"
+$C2510_MAIN_1800_0900_00_elm,I'm sorry.
+$C2510_MAIN_1800_1000_00_elm,"I had a feeling after reading your note,<br>but seeing her like this..."
+$C2510_MAIN_1800_1200_00_elm,"I brought a wheelchair for Aerith. But for Cloud, you'll have to carry him."
+$C2510_MAIN_1800_1300_00_elm,Can you manage that?
+$C2510_MAIN_1800_1400_00_zax,"Yeah, I think I can."
+$C2510_MAIN_1800_1500_00_zax,That's Aerith's...
+$C2510_MAIN_1800_1600_00_elm,"Yes, I know."
+$C2510_MAIN_1900_0100_00_mug,Huh? Aerith?
+$C2510_MAIN_1900_0200_00_mug,What's wrong with her?
+$C2510_MAIN_1900_0300_00_mug,Aerith... Aerith!
+$C2510_MAIN_1900_0400_00_zax,"Hey, Elmyra."
+$C2510_MAIN_1900_0500_00_elm,What is it?
+$C2510_MAIN_1900_0600_00_zax,What's happening here?
+$C2510_MAIN_1900_0700_00_elm,The world's coming to an end.
+$C2510_MAIN_1900_0710_00_elm,"At least, that's what everyone says."
+$C2610_MAIN_3000_0100_00_zax,"Sorry, man. I wish I could have done more."
+$C2610_MAIN_3000_0200_00_zax,Didn't expect you to be such an avid reader.
+$C2610_MAIN_3000_0300_00_zax,"Materia, huh? This one has a strange color."
+$C2610_MAIN_3200_0100_00_elm,Would you like to join us?
+$C2610_MAIN_3200_0200_00_zax,Absolutely. I'm starving.
+$C2610_MAIN_3200_0300_00_mrn,"You're supposed to say, 'Thank you.'"
+$C2610_MAIN_3200_0400_00_zax,"Yes, ma'am."
+$C2610_MAIN_3200_0500_00_mrn,You only need to say 'yes' once!
+$C2610_MAIN_3200_0600_00_zax,Thank you.
+$C2610_MAIN_3200_0700_00_zax,Was someone outside the house last night?
+$C2610_MAIN_3200_0800_00_elm,"Oh, you mean Biggs."
+$C2610_MAIN_3200_0810_00_elm,He was dropping off some supplies.
+$C2610_MAIN_3200_0900_00_zax,Why was he sneaking around then?
+$C2610_MAIN_3200_1000_00_elm,"You've seen those wanted posters all around, right? His face is on them."
+$C2610_MAIN_3400_0100_00_zax,How are you connected?
+$C2610_MAIN_3400_0200_00_elm,You should ask him yourself.
+$C2610_MAIN_3400_0210_00_elm,"As long as Marlene's here, he'll be back."
+$C2610_MAIN_3400_0300_00_mrn,"No, he won't."
+$C2610_MAIN_3400_0400_00_mrn,Biggs isn't coming back. Neither Tifa nor Daddy will return!
+$C2610_MAIN_3400_0500_00_mrn,So Biggs won't come back either.
+$C2610_MAIN_3400_0600_00_zax,Then I'll go find Biggs.
+$C2610_MAIN_3400_0610_00_zax,And I'll bring him here!
+$C2610_MAIN_3400_0700_00_mrn,Really?
+$C2610_MAIN_3400_0800_00_zax,I promise!
+$C2610_MAIN_3400_0810_00_zax,"One answer is enough, right?"
+$C2610_MAIN_3400_0900_00_mrn,"No, you can say it more."
+$C2610_MAIN_3400_1000_00_zax,I promise! I promise!
+$C2710_MAIN_0300_0100_00_zax,"Alright, that's settled."
+$C2710_MAIN_0400_0100_00_zax,"Hey, have you seen this person?"
+$C2710_MAIN_0400_0110_00_zax,Does this person look familiar to you?
+$C2710_MAIN_0400_0120_00_zax,Have you seen this guy before?
+$C2710_MAIN_0400_0130_00_zax,Do you know this guy?
+$C2710_MAIN_0400_0200_00_mfa,"Sorry, I don't."
+$C2710_MAIN_0400_0300_00_mma,"No, sorry."
+$C2710_MAIN_0400_0400_00_mma,Haven't seen him.
+$C2710_MAIN_0400_0500_00_mfa,"Sorry, I don't know him."
+$C2710_MAIN_0400_0600_00_mmk,Who is that?
+$C2710_MAIN_0400_0700_00_mfk,"Nope, sorry!"
+$C2710_MAIN_0500_0200_00_mma,"Oh no, is it Avalanche again?"
+$C2710_MAIN_0500_0300_00_mma,Maybe.
+$C2710_MAIN_0500_0400_00_zax,We need to get going!
+$C2710_MAIN_0600_0100_00_zax,Is that...?!
+$C2710_MAIN_0600_0200_00_zax,Found you!
+$C3010_MAIN_0200_0100_00_big,"So there I was, lying on the ground, bleeding from everywhere..."
+$C3010_MAIN_0200_0200_00_big,"I thought that when the numbness hit, it would be over."
+$C3010_MAIN_0200_0300_00_big,But that wasn't the case.
+$C3010_MAIN_0300_0100_00_big,"Suddenly, I felt a strong wind blowing."
+$C3010_MAIN_0300_0200_00_big,And then it felt like my consciousness was being ripped away from my body.
+$C3010_MAIN_0400_0100_00_big,"Next thing I know, I'm back in the orphanage."
+$C3010_MAIN_0400_0200_00_big,But nobody knows who found me or who brought me there.
+$C3010_MAIN_0400_0300_00_zax,Same thing happened to me.
+$C3010_MAIN_0400_0400_00_zax,Facing a whole damn army...
+$C3010_MAIN_0500_0100_00_zax,"Man, that really hurt..."
+$C3010_MAIN_0500_0200_00_zax,"Yeah, there was definitely a breeze."
+$C3010_MAIN_0600_0100_00_zax,I was stunned when I realized I was still standing.
+$C3010_MAIN_0600_0200_00_big,"Doesn't make any sense, right?"
+$C3010_MAIN_0600_0300_00_big,Survive just to find myself in this world.
+$C3010_MAIN_0600_0310_00_big,And...
+$C3010_MAIN_0600_0400_00_big,Why was I the one who survived?
+$C3010_MAIN_0600_0500_00_zax,What do you mean?
+$C3010_MAIN_0600_0600_00_big,Can't help but think about it.
+$C3010_MAIN_0600_0700_00_big,Why am I the only one left out of all of them?
+$C3010_MAIN_0600_0800_00_big,"If they were here, what would they expect of me?"
+$C3010_MAIN_0600_0900_00_zax,"Yeah, I get it."
+$C3010_MAIN_0600_1000_00_big,"Hey, tag along for a bit."
+$C3010_MAIN_0600_1100_00_zax,"Alright, but why?"
+$C3010_MAIN_0600_1200_00_big,I'll explain while we walk.
+$C3010_MAIN_0700_0100_00_big,"So, how's Cloud holding up?"
+$C3010_MAIN_0700_0200_00_zax,He's got severe mako poisoning. No sign of recovery yet.
+$C3010_MAIN_0700_0300_00_zax,"Well, I'll keep searching around."
+$C3010_MAIN_0700_0400_00_big,I see.
+$C3010_MAIN_0700_0500_00_big,"Once he gets better, you know he'll brag about it."
+$C3010_MAIN_0700_0600_00_big,Something like bouncing back from mako poisoning.
+$C3010_MAIN_0700_0700_00_zax,Is Cloud really that kind of guy?
+$C3010_MAIN_0700_0800_00_big,He's always trying so hard to prove himself.
+$C3010_MAIN_0700_0900_00_big,He didn't have to; we already looked up to him.
+$C3010_MAIN_0700_1000_00_zax,Huh...
+$C3010_MAIN_0700_1100_00_big,"Hey Zack, why don't you give being a 'jack-of-all-trades' a shot?"
+$C3010_MAIN_0700_1200_00_zax,Jack-of-all-trades?
+$C3010_MAIN_0700_1300_00_big,There's decent demand for it.
+$C3010_MAIN_0700_1400_00_zax,I'll think about it.
+$C3010_MAIN_0900_0100_00_big,Ever thought about the meaning or purpose of your life?
+$C3010_MAIN_0900_0200_00_zax,"Yeah... I think about it a lot. Like, all the time."
+$C3010_MAIN_0900_0300_00_big,Wouldn't have guessed that about you.
+$C3010_MAIN_0900_0400_00_zax,"Didn't really use to, but joining Shinra changed that. Went through a lot, really."
+$C3010_MAIN_0900_0500_00_big,"Same here. Ever since I woke up, it's been nonstop self-reflection every day."
+$C3010_MAIN_1000_0100_00_zax,"Hey, Biggs."
+$C3010_MAIN_1000_0110_00_zax,"You mentioned earlier that there's a demand for mercenaries, right?"
+$C3010_MAIN_1000_0200_00_big,Yeah?
+$C3010_MAIN_1000_0300_00_zax,Is there already someone working as a mercenary?
+$C3010_MAIN_1000_0400_00_big,"It's Cloud, of course. Are you really his friend?"
+$C3010_MAIN_1000_0500_00_zax,When did you meet Cloud?
+$C3010_MAIN_1000_0600_00_big,"It was the day before the mission, so..."
+$C3010_MAIN_1000_0700_00_big,"Wait, how many days ago was that?"
+$C3010_MAIN_1000_0800_00_big,My sense of time is all messed up.
+$C3010_MAIN_1000_0900_00_zax,Same here. What's going on?
+$C3010_MAIN_1000_1000_00_big,Don't ask me.
+$C3010_MAIN_1100_0100_00_big,Y'know...
+$C3010_MAIN_1100_0200_00_zax,Mm?
+$C3010_MAIN_1100_0300_00_big,I think I prefer bein' number two or three. Suits me much better.
+$C3010_MAIN_1100_0400_00_zax,Yeah?
+$C3010_MAIN_1100_0500_00_big,"Like, the guy who only has to worry about the how, and doesn't have to decide on the what."
+$C3010_MAIN_1100_0600_00_zax,A minor role?
+$C3010_MAIN_1100_0700_00_big,Exactly. I'm no hero. So how come I was the one who got saved?
+$C3010_MAIN_1100_0800_00_zax,'Cause someone needs you─you and your can-do attitude.
+$C3010_MAIN_1100_0900_00_big,And who might that be?
+$C3010_MAIN_1100_1000_00_zax,"Uh... Whoever brought you back, I guess?"
+$C3010_MAIN_1100_1100_00_big,"And assuming there <i>was</i> someone, who could it have been?"
+$C3010_MAIN_1100_1200_00_zax,That's a good question.
+$C3010_MAIN_1200_0100_00_big,We're almost there. Stay alert.
+$C3010_MAIN_1200_0200_00_zax,Got it.
+$C3010_MAIN_1300_0100_00_zax,No one here.
+$C3010_MAIN_1300_0200_00_big,Not a single soul.
+$C3010_MAIN_1300_0300_00_zax,"Well, lucky for us, no Shinra either."
+$C3010_MAIN_1300_0400_00_zax,Who's there!?
+$C3010_MAIN_1300_0500_00_zax,"Oh, are you a recruit?"
+$C3010_MAIN_1300_0600_00_kre,Huh? No way!
+$C3010_MAIN_1300_0700_00_kre,I just wanted to see the faces of the idiots who'd fall for your crappy posters.
+$C3010_MAIN_1300_0800_00_kre,"But too bad, looks like I misjudged."
+$C3010_MAIN_1300_1000_00_kre,"Later, losers. I'm out."
+$C3010_MAIN_1300_1110_00_big,Seems like this wasn't my calling.
+$C3010_MAIN_1300_1200_00_big,I thought there might be a purpose... that I was chosen for something.
+$C3010_MAIN_1300_1400_00_big,Sorry for dragging you into this.
+$C3010_MAIN_1600_0100_00_zax,Biggs!
+$C3010_MAIN_1600_0200_00_zax,"Let's find something, anything!"
+$C3010_MAIN_1600_0300_00_zax,Who started saying the world's ending?
+$C3010_MAIN_1600_0400_00_zax,"It's strange, right? Why is everyone just accepting it?"
+$C3010_MAIN_1600_0500_00_zax,We can't just leave things like this!
+$C3010_MAIN_1600_0600_00_zax,"Let's search, let's find something."
+$C3010_MAIN_1600_0700_00_zax,"I mean, what is that 'something'?"
+$C3010_MAIN_1600_0800_00_zax,"I can't think of it right now, but hopes and dreams..."
+$C3010_MAIN_1600_0900_00_zax,We find those and hold on tight to them.
+$C3010_MAIN_1600_1000_00_big,Hold on tight?
+$C3010_MAIN_1600_1100_00_zax,"Yeah, like with all your might!"
+$C3010_MAIN_1600_1200_00_big,You're a good guy.
+$C3010_MAIN_1600_1300_00_big,I'll think about it.
+$C3010_MAIN_1600_1400_00_big,"Well, see you around. I'll visit Cloud when I get a chance."
+$C3010_MAIN_1600_1500_00_zax,Sure!
+$C3010_MAIN_1600_1600_00_zax,"Seriously, think it through."
+$C3010_MAIN_1600_1700_00_zax,Guess I'll head home too.
+$C3010_MAIN_1600_1800_00_zax,"'Home,' huh?"
+$C3010_MAIN_1700_0100_00_zax,I'm back.
+$C3010_MAIN_1700_0200_00_elm,Welcome home.
+$C3010_MAIN_1700_0300_00_mrn,Welcome home!
+$C3010_MAIN_1700_0400_00_zax,Guess who I just saw? Biggs!
+$C3010_MAIN_1700_0500_00_mrn,Really!?
+$C3010_MAIN_1700_0600_00_zax,Said he'd visit too!
+$C3010_MAIN_1700_0700_00_mrn,"Oh, yay!"
+$C3010_MAIN_1700_0800_00_mrn,Did he say anything about Daddy or Tifa?
+$C3010_MAIN_1700_0900_00_zax,"Oh, uh... Sorry, forgot to ask."
+$C3010_MAIN_1700_1000_00_mrn,Aw!
+$C3010_MAIN_1700_1100_00_elm,"Zack, would you mind checking on Aerith for me?"
+$C3010_MAIN_1700_1200_00_zax,Sure.
+$C3010_MAIN_1700_1300_00_elm,We're all headed for the same place. You'll see your daddy and Tifa again.
+$C3010_MAIN_1700_1400_00_mrn,Soon?
+$C3010_MAIN_1700_1500_00_elm,"Soon enough, Marlene. Soon enough."
+$C3010_MAIN_1700_1600_00_zax,It's me.
+$C3010_MAIN_1700_1700_00_zax,"The wind─that was you, wasn't it?"
+$C3010_MAIN_1700_1800_00_zax,Hello in there...
+$C3220_MAIN_0100_0000_05_elm,Here.
+$C3220_MAIN_0100_0100_00_elm,I'll take care of Aerith later.
+$C3220_MAIN_0100_0200_00_zax,Understood.
+$C3220_MAIN_0200_0100_00_zax,"Aerith sure does sleep a lot, huh?"
+$C3220_MAIN_0200_0200_00_mrn,It's better this way.
+$C3220_MAIN_0200_0300_00_zax,What? Why?
+$C3220_MAIN_0200_0400_00_mrn,'Cause of Cloud. He's still sick.
+$C3220_MAIN_0200_0500_00_mrn,Please...you gotta make Cloud get better. You gotta.
+$C3220_MAIN_0200_0600_00_zax,"I mean, I'd love to, but..."
+$C3220_MAIN_0200_0700_00_zax,"You, uh...you said it's better for Aerith to stay asleep 'cause Cloud's sick. Why's that?"
+$C3220_MAIN_0200_0800_00_mrn,Because...
+$C3220_MAIN_0200_0810_00_mrn,she'll die if she wakes up.
+$C3220_MAIN_0200_0900_00_zax,You think? What makes you say that?
+$C3220_MAIN_0200_1000_00_mrn,Promise not to tell?
+$C3220_MAIN_0200_1100_00_mrn,"When she wakes up, a scary man is gonna kill her."
+$C3220_MAIN_0200_1200_00_mrn,"Cloud tries to save her, but he doesn't make it in time."
+$C3220_MAIN_0200_1210_00_mrn,"He almost does, but he doesn't!"
+$C3220_MAIN_0200_1300_00_mrn,"She likes Cloud, so she's happy he came. Really, really happy."
+$C3220_MAIN_0200_1310_00_mrn,But...
+$C3220_MAIN_0200_1400_00_mrn,But she dies.
+$C3220_MAIN_0200_1500_00_mrn,"That's why you have to make Cloud better. If he's sick, he can't save Aerith!"
+$C3220_MAIN_0200_1600_05_mrn,No.
+$C3220_MAIN_0200_1600_00_zax,Marlene... are you sure you didn't just have a bad dream?
+$C3220_MAIN_0200_1700_00_mrn,I saw it!
+$C3220_MAIN_0200_1800_00_zax,Oh. Okay...
+$C3220_MAIN_0200_1900_00_mrn,I did!
+$C3220_MAIN_0200_2000_08_mrn,Okay...
+$C3220_MAIN_0200_2000_00_zax,"Don't worry, I believe you. With everything that's going on, how could I not?"
+$C3220_MAIN_0200_2100_00_zax,"So Marlene, I've got a question for you."
+$C3220_MAIN_0200_2200_00_zax,Who was that scary man? What did he look like?
+$C3220_MAIN_0200_2300_00_mrn,He had long hair...
+$C3220_MAIN_0200_2310_00_mrn,And it was silver.
+$C3220_MAIN_0200_2400_00_zax,Just my luck.
+$C3220_MAIN_0300_0100_00_elm,"Zack, look."
+$C3220_MAIN_0300_0200_00_elm,The flowers are blooming.
+$C3220_MAIN_0300_0300_00_zax,They really are!
+$C3220_MAIN_0300_0400_00_elm,Aerith loves these flowers.
+$C3220_MAIN_0300_0500_00_elm,Maybe she'll wake up soon.
+$C3220_MAIN_0300_0600_00_zax,I hope so.
+$C3220_MAIN_0300_0700_00_zax,"Hey, I'm heading out for a bit. Need to discuss something about Cloud."
+$C3220_MAIN_0300_0800_00_elm,Who are you talking to?
+$C3220_MAIN_0300_0810_00_elm,A doctor?
+$C3220_MAIN_0300_0900_00_zax,Well...
+$C3220_MAIN_0300_1000_00_zax,"Yeah, close enough."
+$C3220_MAIN_0300_1100_00_elm,Don't take too long. I rely on you more than you know.
+$C3220_MAIN_0300_1200_00_elm,I'd be worried sick without you.
+$C3220_MAIN_0300_1300_00_zax,"Got it. I'll be quick, taking the bike."
+$C3220_MAIN_0300_1310_00_zax,Take care of Aerith and Cloud for me.
+$C3220_MAIN_0300_1400_00_zax,"And if Aerith wakes up, don't let her go anywhere."
+$C3220_MAIN_0300_1500_00_elm,"I'll try, but you know how she is."
+$C3220_MAIN_0300_1600_05_elm,Okay.
+$C3220_MAIN_0300_1600_00_zax,"Please, make sure she stays."
+$C3220_MAIN_0400_0100_00_elm,"Be home in time for dinner, alright?"
+$C3220_MAIN_0500_0100_00_mrn,Remember: don't tell anyone about what happened earlier.
+$C3220_MAIN_0500_0200_00_mrn,I hope Biggs comes to visit us soon.
+$C3220_MAIN_0600_0090_00_zax,I've been thinking about what you said. Can't get it out of my mind.
+$C3220_MAIN_0600_0200_00_big,<i>Dreams and hope... The reason I survived.</i>
+$C3220_MAIN_0600_0300_00_big,<i>And now I understand. I belong with Avalanche.</i>
+$C3220_MAIN_0600_0400_00_big,<i>We don't have much time left.</i>
+$C3220_MAIN_0600_0410_00_big,<i>We're moving out tonight.</i>
+$C3220_MAIN_0600_0500_00_big,<i>Stay as far away from Reactor 6 as you can.</i>
+$C3220_MAIN_0600_0510_00_big,<i>It was good seeing you.</i>
+$C3220_MAIN_0600_0600_00_big,<i>Biggs.</i>
+$C3220_MAIN_0600_0700_00_zax,"No, that's not what I meant!"
+$C3220_MAIN_0600_0800_00_zax,Elmyra is in trouble.
+$C3410_MAIN_0300_0100_00_zax,To the right─Shinra HQ.
+$C3410_MAIN_0300_0200_00_zax,Professor Hojo might be able to cure Cloud.
+$C3410_MAIN_0300_0300_00_zax,To the left─Reactor 6...
+$C3410_MAIN_0300_0400_00_zax,I have to stop Biggs from blowing it up.
+$C3410_MAIN_0400_0100_00_mrn,His hair was long...
+$C3410_MAIN_0400_0110_00_mrn,and silver.
+$C3410_MAIN_0400_0200_00_zax,Oh man...
+$C3410_MAIN_0400_0300_00_zax,"Sorry, one more question."
+$C3410_MAIN_0400_0400_00_zax,Does Aerith... like Cloud?
+$C3410_MAIN_0400_0500_00_mrn,"Yeah, definitely."
+$C3410_MAIN_0400_0600_00_zax,"She does, huh?"
+$C3410_MAIN_0400_0610_00_zax,"Well, that's a surprise."
+$C3410_MAIN_0400_0700_00_mrn,A big one!
+$C3410_MAIN_0500_0100_00_zax,"Hang in there, Cloud. I'm here for you."
+$C3410_MAIN_0600_0100_00_art,Hellooo!
+$C3410_MAIN_0600_0200_00_art,Time to wake up!
+$C3410_MAIN_0600_0300_00_art,"Cloud, we don't have much time!"
+$C3410_MAIN_0600_0400_00_art,"Zap, zap, zap!"
+$C3410_MAIN_0600_0410_00_art,Wake up!
+$C3410_MAIN_0600_0500_00_cld,What's going on...
+$C3410_MAIN_0600_0600_00_cld,Are we... dead?
+$C3410_MAIN_0600_0700_00_art,Just returning to the planet?
+$C3410_MAIN_0600_0800_00_art,On the way home?
+$C3410_MAIN_0600_0900_00_art,Should we call it a dream?
+$C3410_MAIN_0600_1000_00_art,My dream world.
+$C3410_MAIN_0600_1100_00_cld,What are you saying...
+$C3410_MAIN_0600_1200_00_art,"Just go with it, okay?"
+$C3410_MAIN_0700_0100_00_art,How about we take a walk?
+$C3410_MAIN_0700_0190_00_art,Aerith
+$C3410_MAIN_0700_0200_00_art,One thing.
+$C3410_MAIN_0700_0300_00_art,Promise me you won't look up.
+$C3410_MAIN_0700_0400_00_art,"Trust me, it's better if you don't."
+$C3410_MAIN_0700_0500_00_cld,"You know, telling me that makes me wanna look."
+$C3410_MAIN_0700_0600_00_art,Right...
+$C3410_MAIN_0700_0700_00_art,I tend to mess up like this a lot.<br>I always get ahead of myself.
+$C3410_MAIN_0800_0050_08_art,Hey!
+$C3410_MAIN_0800_0100_11_art,Ta-da!
+$C3410_MAIN_0800_0100_00_art,Let's check it out. C'mon!
+$C3410_MAIN_0800_0200_00_art,"Can I have one? Can I, can I, can I!?"
+$C3410_MAIN_0800_0300_00_art,Please...
+$C3410_MAIN_0800_0500_00_cld,Which one do you want?
+$C3410_MAIN_0800_0600_00_art,Whichever one you pick.
+$C3410_MAIN_0800_0700_00_cld,Why are you acting so weird?
+$C3410_MAIN_0800_0800_00_cld,"Well, you are. This isn't you."
+$C3410_MAIN_0800_0900_00_mma,"If you ask me, I'd probably say, uh...this piece?"
+$C3410_MAIN_0800_1000_00_art,I dunno...Actually! I'm gonna let him choose.
+$C3410_MAIN_0800_1100_00_mma,"Everything is free, but remember, it's one per person."
+$C3410_MAIN_0800_1200_00_art,"This is it! After much cajoling, Cloud is about to give his very first gift to Aerith!"
+$C3410_MAIN_0800_1300_00_art,Only question is─which one will he choose!?
+$C3410_MAIN_0800_1310_00_sys,<button=RS> Choose a Gift
+$C3410_MAIN_0800_1320_00_sys,The Pink Hairclip
+$C3410_MAIN_0800_1330_00_sys,The Gold Bracelet
+$C3410_MAIN_0800_1340_00_sys,The Stamp Figurine
+$C3410_MAIN_0800_1400_00_cld,That one.
+$C3410_MAIN_0800_1500_00_mma,"Ah, I'm so sorry! I meant everything but that one."
+$C3410_MAIN_0800_1600_00_mma,Tell you what. I've got something else I think you'll love!
+$C3410_MAIN_0800_1700_00_mma,"C'mon, man..."
+$C3410_MAIN_0800_1800_00_art,"Y'know, that's actually pretty neat!"
+$C3410_MAIN_0800_1900_00_art,"Perfect, even."
+$C3410_MAIN_0800_2000_00_cld,You kidding me?
+$C3410_MAIN_0800_2100_00_mma,Thank you for your patronage all these years.
+$C3410_MAIN_0800_2200_00_art,"So, where should we head next?"
+$C3410_MAIN_0800_2300_00_art,Let's go that way!
+$C3410_MAIN_0900_0100_00_mfa,Hey there! Go ahead and pick anything you like.
+$C3410_MAIN_0900_0200_00_mfa,"But remember, only one per person."
+$C3410_MAIN_0900_0300_00_art,"Hmm, can't decide..."
+$C3410_MAIN_0900_0310_00_sys,<button=RS> Choose your snack
+$C3410_MAIN_0900_0320_00_sys,Stamp's Champs
+$C3410_MAIN_0900_0330_00_sys,Cosmo Candy
+$C3410_MAIN_0900_0340_00_sys,Chocosticks
+$C3410_MAIN_0900_0400_00_cld,I'll take this one.
+$C3410_MAIN_0900_0500_00_art,Then I'll have this!
+$C3410_MAIN_0900_0600_00_mfa,Alright.
+$C3410_MAIN_0900_0700_00_mfa,"Oh, and while those are good, I've got something new for you guys."
+$C3410_MAIN_0900_0800_00_mfa,Give this a try.
+$C3410_MAIN_0900_0900_00_art,A new creation?
+$C3410_MAIN_0900_1000_05_cld,Sure.
+$C3410_MAIN_0900_1000_00_art,Let's give it a shot!
+$C3410_MAIN_0900_1100_00_mfa,Enjoy it.
+$C3410_MAIN_0900_1400_00_cld,Ugh...
+$C3410_MAIN_0900_1500_00_mfa,I went all out for this final batch...
+$C3410_MAIN_0900_1600_00_mfa,"Looks like I went overboard, huh?"
+$C3410_MAIN_0900_1700_00_art,Maybe it just needs a bit more sweetness?
+$C3410_MAIN_0900_1800_00_cld,"And whatever's causing this weird tingling, that needs to go."
+$C3410_MAIN_0900_1900_00_mfa,Guess I need to go back to the drawing board.
+$C3410_MAIN_0900_2000_00_mfa,"But time's not really on our side, is it?"
+$C3410_MAIN_1000_0100_00_zax,"I just said I wanted to meet Hojo, didn't I?"
+$C3410_MAIN_1000_0110_00_zax,Why'd it turn out like this?
+$C3410_MAIN_1000_0200_00_zax,"Well, the world's ending anyway."
+$C3410_MAIN_1000_0300_00_zax,"When you think about it that way, you can do anything!"
+$C3410_MAIN_1000_0400_00_zax,Make way~!
+$C3410_MAIN_1100_0100_00_sep,"So, you were hiding out in this remote place."
+$C3410_MAIN_1100_0200_00_sep,A world that has embraced vanishing...
+$C3410_MAIN_1100_0300_00_cld,"Aerith, what is that?"
+$C3410_MAIN_1100_0400_00_art,Should we check it out?
+$C3410_MAIN_1100_0500_00_sep,Just to fade away.
+$C3410_MAIN_1200_0100_00_mma,"Sorry, I've only got one shot left."
+$C3410_MAIN_1200_0200_00_mma,Can you take a picture of us?
+$C3410_MAIN_1200_0300_00_mfa,"Please, we've been waiting!"
+$C3410_MAIN_1200_0400_00_mma,We don't have any pictures together.
+$C3410_MAIN_1200_0500_00_art,We don't have any either!
+$C3410_MAIN_1200_0600_00_mma,"This is tricky... Alright, everyone, strike a pose!"
+$C3410_MAIN_1200_0700_00_mma,I'll take a picture of the best-looking couple.
+$C3410_MAIN_1200_0900_00_mma,"Alright, you two!"
+$C3410_MAIN_1200_1000_00_mma,And the final best couple is...
+$C3410_MAIN_1200_1100_00_sys,A modeling pose.
+$C3410_MAIN_1200_1200_00_sys,The 'It's showtime' pose.
+$C3410_MAIN_1200_1300_00_sys,A dance hold.
+$C3410_MAIN_1300_0100_00_zax,"Hold on, Biggs. I'm coming."
+$C3410_MAIN_1300_0300_00_zax,What's this? What happened?
+$C3410_MAIN_1300_0400_00_big,The mako's nearly zero.
+$C3410_MAIN_1300_0410_00_big,"The reactor is running, but no mako's coming up."
+$C3410_MAIN_1300_0500_00_zax,So?
+$C3410_MAIN_1300_0600_00_big,The lifestream's completely dry.
+$C3410_MAIN_1300_0610_00_big,"No matter what we do, the world is ending."
+$C3410_MAIN_1300_0700_00_big,Damn it!
+$C3410_MAIN_1300_0800_00_zax,Watch out!
+$C3410_MAIN_1300_0900_00_zax,Was that it?
+$C3410_MAIN_1300_1000_00_big,I got scared during the test and messed up for real.
+$C3410_MAIN_1300_1100_00_big,Why am I still here?
+$C3410_MAIN_1300_1110_00_big,Why was I chosen?
+$C3410_MAIN_1300_1200_00_big,"You saw it, right?"
+$C3410_MAIN_1300_1210_00_big,I can't do anything by myself.
+$C3410_MAIN_1300_1300_00_zax,Don't say that.
+$C3410_MAIN_1300_1400_00_big,I thought I was chosen for a moment.
+$C3410_MAIN_1300_1410_00_big,But I was just left behind.
+$C3410_MAIN_1300_1500_00_zax,That's not true.
+$C3410_MAIN_1300_1510_00_zax,Look at me.
+$C3410_MAIN_1300_1600_00_zax,I chose you. That's why you're here.
+$C3410_MAIN_1300_1800_00_big,"Thank you, but..."
+$C3410_MAIN_1300_1810_00_big,But why?
+$C3410_MAIN_1300_1900_00_zax,Well...
+$C3410_MAIN_1300_2000_00_big,I guess it's obvious when you think about it. We need to stop the reactor from blowing up.
+$C3410_MAIN_1300_2100_00_big,"World may be ending and all, but a bombing's still a bombing."
+$C3410_MAIN_1300_2200_00_zax,"That's part of it too, but mostly... I was worried about you."
+$C3410_MAIN_1300_2300_00_big,That bleeding heart... It'll getcha killed.
+$C3410_MAIN_1300_2500_00_zax,"I don't know, I just..."
+$C3410_MAIN_1300_2510_00_zax,I wanted to take action...
+$C3410_MAIN_1300_2520_00_zax,Take charge.
+$C3410_MAIN_1300_2600_00_zax,Take control.
+$C3410_MAIN_1300_2700_00_zax,To know that I had a choice...
+$C3410_MAIN_1300_2710_00_zax,That this path─this world─was one I chose.
+$C3410_MAIN_1300_2800_00_zax,I wanted to take back my life.
+$C3410_MAIN_1300_3000_00_zax,Biggs...? Buddy?
+$C3410_MAIN_1300_3100_00_zax,No... No.
+$C3410_MAIN_1300_3110_00_zax,"Biggs, get up!"
+$C3410_MAIN_1300_3200_00_zax,"End of the road, huh?"
+$C3410_MAIN_1300_3300_00_zax,Fate's got one twisted sense of humor...
+$C3410_MAIN_1300_3400_00_zax,And I'm always the punchline.
+$C3410_MAIN_1300_3410_00_zax,But I'm sick of taking its shit!
+$C3410_MAIN_1300_3500_00_zax,This is my life. I make the rules!
+$C3410_MAIN_1300_3600_00_zax,See ya never!
+$C3410_MAIN_1400_0050_16_mma,See ya.
+$C3410_MAIN_1400_0100_00_cld,"Hey, why'd you skip us?"
+$C3410_MAIN_1400_0200_00_mma,"Well, for one..."
+$C3410_MAIN_1400_0300_00_mma,You don't really seem like a couple...
+$C3410_MAIN_1400_0310_00_mma,More like you're at a funeral.
+$C3410_MAIN_1400_0400_00_art,I don't think that's true.
+$C3410_MAIN_1400_0500_00_mma,You should try to enjoy yourselves more. Goodbye.
+$C3410_MAIN_1400_0600_00_art,"Too bad... So, where to next?"
+$C3410_MAIN_1400_0700_00_cld,Wait. Talk to me first.
+$C3410_MAIN_1400_0710_00_cld,Something's off—both with the town and you.
+$C3410_MAIN_1400_0720_00_cld,"You know something, don't you?"
+$C3410_MAIN_1400_0810_00_art,How about we go somewhere special?
+$C3410_MAIN_1400_0900_00_cld,Where's that?
+$C3410_MAIN_1400_1000_00_art,Do you really have to ask?
+$C3410_MAIN_1400_1100_00_art,It's one of my favorite places.
+$C3410_MAIN_1400_1110_00_art,That's a big hint!
+$C3410_MAIN_1600_0100_00_zax,Cloud...
+$C3410_MAIN_1600_0110_00_zax,Biggs...
+$C3410_MAIN_1600_0120_00_zax,Aerith...
+$C3410_MAIN_1600_0300_00_zax,How am I supposed to choose?!
+$C3410_MAIN_1600_0400_00_zax,Sephiroth!?
+$C3410_MAIN_1600_0500_00_zax,Hey!
+$C3410_MAIN_1600_0600_00_zax,What the hell!?
+$C3410_MAIN_1600_0700_00_sep,Not you...
+$C3410_MAIN_1700_0100_00_zax,"So it was you after all, Sephiroth."
+$C3410_MAIN_1700_0200_00_zax,This isn't the end!
+$C3410_MAIN_1700_0500_00_zax,I'm going there.
+$C3410_MAIN_1700_0510_00_zax,Let's go!
+$C3410_MAIN_1800_0100_00_cld,"This is it, right? Our special place."
+$C3410_MAIN_1800_0200_00_art,Bingo!
+$C3410_MAIN_1800_0300_00_cld,That was too easy.
+$C3410_MAIN_1800_0400_00_art,"Well, we don't have many memories together."
+$C3410_MAIN_1800_0500_00_cld,We'll make more from now on.
+$C3410_MAIN_1800_0600_00_art,Do you really mean that?
+$C3410_MAIN_1800_0700_00_cld,"Yeah, of course."
+$C3410_MAIN_1800_0800_00_cld,"We're friends, after all."
+$C3410_MAIN_1800_0900_00_art,"Yeah, you're right."
+$C3410_MAIN_1800_1000_00_art,I'm glad to know how you feel.
+$C3410_MAIN_1800_1100_00_art,"Cloud, I really like you."
+$C3410_MAIN_1800_1110_00_art,"But, there are different kinds of 'like,' right?"
+$C3410_MAIN_1800_1200_00_art,I wonder which kind this is.
+$C3410_MAIN_1800_1300_00_cld,"Aerith, you're acting strange."
+$C3410_MAIN_1800_1310_00_cld,You've been acting weird all day.
+$C3410_MAIN_1800_1900_00_art,I apologize.
+$C3410_MAIN_1800_2000_00_art,"Don't feel guilty, no matter what happens."
+$C3410_MAIN_1800_2100_00_art,Cloud?
+$C3410_MAIN_1800_2200_00_art,Thank you.
+$C3410_MAIN_1800_2400_00_art,"No, never mind."
+$C3410_MAIN_1800_2500_00_art,"Please, keep this."
+$C3410_MAIN_1800_2600_00_cld,Isn't this something precious to you?
+$C3410_MAIN_1800_2700_00_art,This materia will surely save the world.
+$C3410_MAIN_1800_2800_00_art,"Goodbye, Cloud."
+$C3410_MAIN_1800_2900_00_cld,What is this?
+$C3410_MAIN_1800_3000_00_art,I've had a great time.
+$C3410_MAIN_1800_3100_00_cld,Aerith!
+$MIDGR_NPC_10_0200_0100_00_mma,"Guess I don't need to go to work anymore, huh?"
+$MIDGR_NPC_10_0200_0200_00_mma,"Even if I escape from here, there's nowhere to go."
+$MIDGR_NPC_10_0200_0300_00_mma,I used to meet dates here all the time.
+$MIDGR_NPC_10_0200_0400_00_mma,I'm waiting for my wife to come home.
+$MIDGR_NPC_10_0200_0500_00_mma,"If the trains aren't running, maybe they could send a helicopter."
+$MIDGR_NPC_10_0200_0600_00_mma,I heard the spiral tunnel was severely damaged.
+$MIDGR_NPC_10_0200_0700_00_mma,"No way the whole of Midgar is going to collapse, right?"
+$MIDGR_NPC_10_0200_0800_00_mma,I wish I could distract myself with work at a time like this.
+$MIDGR_NPC_10_0200_0900_00_mma,They're saying there's a riot in Sector 8.
+$MIDGR_NPC_10_0200_1000_00_mma,Do you think you can see the crack more clearly from the plate?
+$MIDGR_NPC_10_0200_1100_00_mfa,This station has witnessed so many meetings and farewells. It was loved by everyone.
+$MIDGR_NPC_10_0200_1200_00_mfa,"My boyfriend lives on the plate, so we have many memories here."
+$MIDGR_NPC_10_0200_1300_00_mfa,My husband still hasn't come back yet.
+$MIDGR_NPC_10_0200_1400_00_mfa,Is it true the top of the Shinra Building was blown off?
+$MIDGR_NPC_10_0200_1500_00_mfa,"So many things are happening, everyone is losing the will to go on."
+$MIDGR_NPC_10_0200_1600_00_mfa,Did you hear? Shinra's going to attack the rift.
+$MIDGR_NPC_10_0200_1700_00_mfa,I'm really hoping Shinra will somehow fix this. Who else can we turn to?
+$MIDGR_NPC_10_0200_1800_00_mfa,Do you think this is because we've used too much mako?
+$MIDGR_NPC_10_0200_1810_00_mfa,The Planet must be angry at us.
+$MIDGR_NPC_10_0200_1900_00_mfa,"If the trains aren't running, can we just walk along the tracks to get up top?"
+$MIDGR_NPC_10_0200_2000_00_mfa,"Don't be fooled by rumors. You saw the notice from Shinra, right?"
+$MIDGR_NPC_10_0200_2100_00_mma,All trains to the plate are currently suspended.
+$MIDGR_NPC_10_0200_2110_00_mma,There's no word on when service will resume.
+$MIDGR_NPC_10_0200_2200_00_mma,I repeat: service is currently suspended.
+$MIDGR_NPC_10_0200_2210_00_mma,Please wait for an announcement from Urban Development.
+$MIDGR_NPC_10_0200_2300_00_mma,All train service to the plate is currently suspended.
+$MIDGR_NPC_10_0200_2310_00_mma,We don't have any updates on when it will resume.
+$MIDGR_NPC_10_0200_2400_00_mma,We can't provide a timeline for when train service will restart.
+$MIDGR_NPC_10_0200_2410_00_mma,Please wait for an official statement from Urban Development.
+$MIDGR_NPC_10_0200_2500_00_mfa,How about a bowl of marche stew? A perfect blend of sweetness and spice!
+$MIDGR_NPC_10_0200_2600_00_mfa,"Loaded with sugar and oil, it's high in calories!"
+$MIDGR_NPC_10_0200_2700_00_mfa,Would you like some special meatballs from the Sector 5 slums?
+$MIDGR_NPC_10_0200_2800_00_mfa,They're made with our secret sweet and spicy sauce.
+$MIDGR_NPC_10_0200_2900_00_mma,We've got the best spicy-sweet meatballs in the slums!
+$MIDGR_NPC_10_0200_3000_00_mma,Our secret sauce is the original!
+$C1910_MAIN_0100_0050_00_sep,"Hurry up, Cloud."
+$C1910_MAIN_0100_0070_00_mma,Reporting live from Midgar Expressway.
+$C1910_MAIN_0100_0080_00_mma,"As you can see, buildings have completely collapsed, and the roads have caved in."
+$C1910_MAIN_0100_0090_00_mma,"Smoke is rising from multiple buildings, and fires can be seen burning."
+$C1910_MAIN_0100_0100_00_mma,Midgar is currently facing an unprecedented crisis.
+$C1910_MAIN_0100_0110_00_mma,"Reactor bombings, the collapse of Sector 7 plate—"
+$C1910_MAIN_0100_0120_00_mma,After the fall of the Sector 7 plate...
+$C1910_MAIN_0100_0200_00_mma,a sudden tornado has caused unprecedented destruction on the Midgar Expressway...
+$C1910_MAIN_0100_0300_00_mma,severely impacting sectors from 0 to 2.
+$C1910_MAIN_0100_0400_00_mma,"After consulting with Shinra Company, Mayor Domino and city officials..."
+$C1910_MAIN_0100_0500_00_mma,"have declared that Avalanche, an anti-Shinra group,"
+$C1910_MAIN_0100_0510_00_mma,is responsible for this attack using an unknown weapon.
+$C1910_MAIN_0100_0600_00_mma,"They are also investigating possible involvement from Wutai, despite the current ceasefire."
+$C3010_MAIN_0800_0100_00_big,Get a load of this.
+$C3010_MAIN_0800_0200_00_zax,"Okay, let's see..."
+$C3010_MAIN_0800_0300_00_zax,"""The destruction of Sector 7 was orchestrated by Shinra themselves. We can't let those murderers get away with it!"""
+$C3010_MAIN_0800_0400_00_zax,"""People of Midgar, fight back against our corporate oppressors by joining Avalanche!"""
+$C3010_MAIN_0800_0500_00_zax,"""Seek us out at the lot off Petal Lane."""
+$C3010_MAIN_0800_0600_00_zax,Wow. That's bold.
+$C3010_MAIN_0800_0700_00_big,Yup.
+$C3010_MAIN_0800_0800_00_zax,These guys are setting a trap for themselves! Shinra'll just roll in and round 'em all up!
+$C3010_MAIN_0800_0900_00_big,Doubt Public Security will even bother going through the motions.
+$C3010_MAIN_0800_0910_00_big,Easier just to shoot and skip the paperwork.
+$C3010_MAIN_0800_1000_00_zax,Then anyone who goes is─
+$C3010_MAIN_0800_1100_00_big,"An idiot, I know."
+$C3010_MAIN_0800_1200_00_big,But idiots are what we need right now─ folks who'll risk it all.
+$C3010_MAIN_0800_1300_00_zax,Wait!
+$C3010_MAIN_0800_1310_00_zax,Don't tell me you're going!
+$C3010_MAIN_0800_1400_00_zax,The things I do for friends...
+$C3410_MAIN_0100_0100_00_lud,Almost there.
+$C3410_MAIN_0100_0200_00_hjo,I've heard Tseng's in a dangerous state. I'll take a look at him.
+$C3410_MAIN_0100_0300_00_ruf,No. The medical team will handle it.
+$C3410_MAIN_0100_0310_00_ruf,You are... dangerous.
+$C3410_MAIN_0100_0500_00_ruf,"Professor Hojo, what exactly did we witness at that temple?"
+$C3410_MAIN_0100_0600_00_hjo,"As a scientist, I can't say anything definitive yet, but one thing is clear:"
+$C3410_MAIN_0100_0700_00_hjo,Shinra has been left behind.
+$C3410_MAIN_0100_0800_00_ruf,It seems we agree.
+$MIDGR_NPC_10_0100_0100_00_mma,You think that rift in the sky could really swallow the whole planet?
+$MIDGR_NPC_10_0100_0200_00_mma,Don't look... Don't look at the sky...
+$MIDGR_NPC_10_0100_0300_00_mma,Is that rift in the sky Avalanche's doing too?
+$MIDGR_NPC_10_0100_0400_00_mma,"If I can still say I'm safe today, that's more than enough to make me happy."
+$MIDGR_NPC_10_0100_0500_00_mma,"Ah, that gap in the sky is getting even bigger."
+$MIDGR_NPC_10_0100_0600_00_mma,I've decided to confess my feelings to the one I love! I don't want to have any regrets.
+$MIDGR_NPC_10_0100_0700_00_mma,I quit my job because I want to spend my remaining days with my family.
+$MIDGR_NPC_10_0100_0710_00_mma,I'm also working through my bucket list.
+$MIDGR_NPC_10_0100_0800_00_mma,There's a rumor that the mako energy has run out.
+$MIDGR_NPC_10_0100_0810_00_mma,"If that's true, who knows how much longer the sun lamps in the slums will stay on."
+$MIDGR_NPC_10_0100_0900_00_mma,That rift is a divine punishment. It's time for us to pay for being consumed by mako.
+$MIDGR_NPC_10_0100_1000_00_mma,We’re all going to die someday anyway. Might as well live as we please until then.
+$MIDGR_NPC_10_0100_1100_00_mma,"No matter what's happening, you always get hungry. I guess that's just part of being alive."
+$MIDGR_NPC_10_0100_1200_00_mma,Looking at that light almost makes me want to cry. I'm just so scared...
+$MIDGR_NPC_10_0100_1300_00_mma,I wonder what it's like on the other side of that rift.
+$MIDGR_NPC_10_0100_1400_00_mma,"Shinra will figure something out, won't they? They have to, right?"
+$MIDGR_NPC_10_0100_1500_00_mma,I’m still working. Keeps me from thinking about all this craziness.
+$MIDGR_NPC_10_0100_1600_00_mfa,There's a rumor that a giant meteor might fall from the cracked sky.
+$MIDGR_NPC_10_0100_1700_00_mfa,"It's too late now, but we should have listened to the planetology experts."
+$MIDGR_NPC_10_0100_1800_00_mfa,"Better to do everything you want now than regret it later. No regrets, right?"
+$MIDGR_NPC_10_0100_1900_00_mfa,"I wonder if Avalanche has calmed down. I mean, who even cares about anti-Shinra activism anymore?"
+$MIDGR_NPC_10_0100_2000_00_mfa,I heard the tornado caused by Avalanche is what tore the sky over Midgar apart.
+$MIDGR_NPC_10_0100_2100_00_mfa,Will there be no one left to remember us?
+$MIDGR_NPC_10_0100_2110_00_mfa,It's a sad thought...
+$MIDGR_NPC_10_0100_2200_00_mfa,It feels like a dream. None of this feels real.
+$MIDGR_NPC_10_0100_2300_00_mfa,"I always wanted to visit Costa del Sol, even if just once."
+$MIDGR_NPC_10_0100_2400_00_mfa,"Every night, I lie in bed wondering if I've lived my life the right way."
+$MIDGR_NPC_10_0100_2500_00_mfa,"I used to worry about all kinds of trivial things, and now I miss those days so much."
+$MIDGR_NPC_10_0100_2600_00_mfa,Spending every day with my family is such a blessing.
+$MIDGR_NPC_10_0100_2700_00_mfa,Doesn't your heart ache when you look at the rift?
+$MIDGR_NPC_10_0100_2710_00_mfa,"It's so beautiful, I wonder why."
+$MIDGR_NPC_10_0100_2800_00_mfa,"Every morning when I wake up, I breathe a sigh of relief. I'm just glad I'm still alive."
+$MIDGR_NPC_10_0100_2900_00_mfa,Is it true the reactors have stopped? Was it Avalanche's doing?
+$MIDGR_NPC_10_0100_3000_00_mfa,"My fiancé died in the Sector 7 plate collapse, so part of me feels like I don't care anymore."
+$MIDGR_NPC_10_0100_3100_00_mma,What's going on?
+$MIDGR_NPC_10_0100_3200_00_mma,Can we please stop the fighting already?
+$MIDGR_NPC_10_0100_3300_00_mma,Are there still Avalanche remnants around?
+$MIDGR_NPC_10_0100_3400_00_mma,"Hey, our plate's safe, right?"
+$MIDGR_NPC_10_0100_3500_00_mma,Did something happen?
+$MIDGR_NPC_10_0100_3600_00_mma,Why not? Break it all down!
+$MIDGR_NPC_10_0100_3700_00_mma,Did that explosion come from the church?
+$MIDGR_NPC_10_0100_3800_00_mma,"It's gotta be Avalanche again, huh? Just give us a break already."
+$MIDGR_NPC_10_0100_3900_00_mfa,"What is it now? Please, stop it already!"
+$MIDGR_NPC_10_0100_4000_00_mfa,"That explosion was near the church, wasn't it? What are they targeting now?"
+$MIDGR_NPC_10_0100_4100_00_mfa,Did Avalanche do something else again?
+$MIDGR_NPC_10_0100_4200_00_mfa,I can't bear to see more people die.
+$MIDGR_NPC_10_0100_4300_00_mfa,Is it true there was a riot?
+$MIDGR_NPC_10_0100_4400_00_mfa,"Maybe if they blew up the whole planet, we'd finally have peace."
+$MIDGR_NPC_10_0100_4500_00_mfa,I just want to live in peace...
+$MIDGR_NPC_10_0100_4600_00_mfa,"Even Shinra can't handle the last remnants of Avalanche, huh?"
+$MIDGR_NPC_10_0100_4700_00_mfa,We have an update on the sudden appearance of a rift over Midgar.
+$MIDGR_NPC_10_0100_4800_00_mfa,According to Shinra's science department...
+$MIDGR_NPC_10_0100_4900_00_mfa,they have measured unusual waves but confirmed that it has no impact on the human body and poses no threat.
+$MIDGR_NPC_10_0100_5000_00_mfa,"Additionally, Director Heidegger of Public Security addressed the spreading rumors about the planet’s imminent demise, saying:"
+$MIDGR_NPC_10_0100_5200_00_mfa,"""We are putting all our resources into investigating the cause. Please do not be misled by unfounded information."""
+$MIDGR_NPC_10_0100_5300_00_mfa,"At president Rufus's press conference the day after tomorrow, he will also discuss the recent tornado incident..."
+$MIDGR_NPC_10_0100_5400_00_mfa,and announce measures to deal with the rift.
+$MIDGR_NPC_10_0100_5500_00_mma,Some believe that the rift in the sky is a sign that the planet is crying out in anguish.
+$MIDGR_NPC_10_0100_5600_00_mfa,Has the planet abandoned us?
+$MIDGR_NPC_10_0100_5700_00_mma,Maybe it's angry at us for wasting its blessings and waging war against each other.
+$MIDGR_NPC_10_0100_5800_00_mma,Maybe it's crying.
+$MIDGR_NPC_10_0100_5900_00_mfa,"Yeah, what's gonna happen from now on?"
+$MIDGR_NPC_10_0100_6000_00_mma,"In the end, it's the planet that decides the future, right?"
+$MIDGR_NPC_10_0100_6100_00_mma,Whether humanity survives or not is up to the planet's judgment.
+$MIDGR_NPC_10_0100_6200_00_mma,"So, what about you? What are you gonna do from now on?"
+$MIDGR_NPC_10_0100_6300_00_mma,"Hmm, I'll probably just keep living as I always have."
+$MIDGR_NPC_10_0100_6400_00_mma,That's boring. Aren't you gonna start something new?
+$MIDGR_NPC_10_0100_6500_00_mma,"The other day, I prayed at a church for the first time."
+$MIDGR_NPC_10_0100_6600_00_mma,"I was just imitating others, but I felt a bit at peace."
+$MIDGR_NPC_10_0100_6700_00_mma,Even Shinra might be at a loss this time.
+$MIDGR_NPC_10_0100_6800_00_mfa,Maybe we should go to Cosmo Canyon and ask if they know a solution.
+$MIDGR_NPC_10_0100_6900_00_mma,Planetology isn't going to help us now.
+$MIDGR_NPC_10_0100_6910_00_mma,All they'll probably do is tell you to pray.
+$MIDGR_NPC_10_0100_7000_00_mfa,Then what should we do?
+$MIDGR_NPC_10_0100_7100_00_mma,There's nothing we can do anymore.
+$MIDGR_NPC_10_0100_7200_00_mfa,"I've lived a long life, so I have no regrets if it ends here."
+$MIDGR_NPC_10_0100_7300_00_mfa,But you all have your whole lives ahead of you. I'm really sorry.
+$MIDGR_NPC_10_0100_7400_00_mmk,"Why are you apologizing, Grandma?"
+$MIDGR_NPC_10_0100_7500_00_mfk,"Please don't cry, Grandma. It makes me feel sad too."
+$MIDGR_NPC_10_0100_7600_00_fol,"There, there, everyone. Let's calm down."
+$MIDGR_NPC_10_0100_7700_00_fol,Let's dance together!
+$MIDGR_NPC_10_0100_7800_00_mmk,What's gonna happen to us?
+$MIDGR_NPC_10_0100_7900_00_mmk,Whoa! Is that crack getting bigger!?
+$MIDGR_NPC_10_0100_8000_00_mmk,Do we still have to study?
+$MIDGR_NPC_10_0100_8100_00_mfk,Is there anything we can do?
+$MIDGR_NPC_10_0100_8200_00_mfk,Will we ever grow up?
+$MIDGR_NPC_10_0100_8300_00_mfa,Ms. Folia is a dancer.
+$MIDGR_NPC_10_0100_8400_00_mfa,She kept her part-time job at the Honeybee Inn a secret for a long time.
+$MIDGR_NPC_10_0100_8500_00_mfa,But now she dances to encourage the children.
+$MIDGR_NPC_10_0100_8600_00_mfa,We really appreciate her.
+$MIDGR_NPC_10_0100_8700_00_mug,"You're the guy who was with Aerith, right?"
+$MIDGR_NPC_10_0100_8800_00_mug,Is Aerith going to be okay?
+$MIDGR_NPC_10_0100_8900_00_mma,"Screw it! Let's do whatever we want! First up, let's rob some folks and get ourselves some gil!"
+$MIDGR_NPC_10_0100_9000_00_mfa,You don't need to pretend to be a bad guy.
+$MIDGR_NPC_10_0100_9100_00_mma,"Shut up! After we get rich, we'll drown ourselves in booze!"
+$MIDGR_NPC_10_0100_9200_00_mfa,"You're scared, aren't you..."
+$MIDGR_NPC_10_0100_9300_00_mma,"Yeah, I'm scared! Got a problem with that!?"
+$MIDGR_NPC_10_0100_9400_00_mma,"People of the planet, gaze upon the sky! Look at those wounds of despair!"
+$MIDGR_NPC_10_0100_9410_00_mma,"The planet suffers, it screams, it mourns!"
+$MIDGR_NPC_10_0100_9500_00_mma,The planet's life is on the brink of ending.
+$MIDGR_NPC_10_0100_9510_00_mma,"The lifestream is dying out, drying up as we speak. And when our great mother perishes, so will her children."
+$MIDGR_NPC_10_0100_9600_00_mma,This fate is the retribution that the planet is exacting on us for our foolishness!
+$MIDGR_NPC_10_0100_9700_00_mfa,"People of the planet, look to the sky. Behold that wound of despair!"
+$MIDGR_NPC_10_0100_9710_00_mfa,"The planet is suffering, crying out in pain. She mourns and grieves."
+$MIDGR_NPC_10_0100_9800_00_mfa,The groaning of a weakened planet has torn the sky.
+$MIDGR_NPC_10_0100_9900_00_mfa,The wound in the sky is a symbol of our sin for ignoring the planet's cries.
+$MIDGR_NPC_10_0100_10000_00_mfa,We who have sinned should humbly accept the punishment.
+$MIDGR_NPC_10_0100_10100_00_mma,"Let's all go camping. After all, I did buy a new car."
+$MIDGR_NPC_10_0100_10200_00_mfk,Really? Awesome!
+$MIDGR_NPC_10_0100_10300_00_mmk,"Dad, what about work?"
+$MIDGR_NPC_10_0100_10400_00_mma,"Ah, I quit my job already. I'm free now."
+$MIDGR_NPC_10_0100_10500_00_mfa,Why don't we make some sandwiches together?
+$MIDGR_NPC_10_0100_10600_00_mfk,I'll handle the meat!
+$MIDGR_NPC_10_0100_10700_00_mmk,"Alright, then I'll chop the veggies!"
+$MIDGR_NPC_10_0100_10800_00_mma,"Haha, I'm going to show you both how wide this world is. Let's make some wonderful memories."
+$MIDGR_NPC_10_0100_10900_00_mfa,"Looking back, we sure had a lot of fights."
+$MIDGR_NPC_10_0100_11000_00_mma,Any complaints left unspoken? Now's the time to air them out.
+$MIDGR_NPC_10_0100_11100_00_mfa,I wish we could've gone on more dates.
+$MIDGR_NPC_10_0100_11200_00_mma,Sorry I was always working. But it's not too late to make it up.
+$MIDGR_NPC_10_0100_11300_00_mfa,"Yeah, let's go to all the places we haven't been!"
+$MIDGR_NPC_10_0100_11400_00_mfa,So...what do you think will happen to our baby?
+$MIDGR_NPC_10_0100_11500_00_mma,I don't know...
+$MIDGR_NPC_10_0100_11600_00_mfa,I wish we could've seen our baby's face.
+$MIDGR_NPC_10_0100_11700_00_mma,"Hey, why don't we pick a name?"
+$MIDGR_NPC_10_0100_11800_00_mma,"We don't know what lies ahead, but at least we can call our baby by name."
+$MIDGR_NPC_10_0100_11900_00_mfa,You're right. Let's choose the best name we can.
+$MIDGR_NPC_10_0100_12000_00_mma,I always hoped I'd find someone special before I died.
+$MIDGR_NPC_10_0100_12100_00_mma,What about...me?
+$MIDGR_NPC_10_0100_12200_00_mma,Really? You mean it? Why didn't you say so earlier?
+$MIDGR_NPC_10_0100_12210_00_mma,"Haha, I should’ve confessed sooner myself."
+$MIDGR_NPC_10_0100_12300_00_mma,You heard Aerith got wheeled in on a wheelchair? What happened?
+$MIDGR_NPC_10_0100_12310_00_mma,Did she get caught in that tornado accident?
+$MIDGR_NPC_10_0100_12400_00_mma,"I don't really know, but it seems like she's not too seriously hurt."
+$MIDGR_NPC_10_0100_12500_00_mfa,I hope she recovers soon. We could really use her help at the shop.
+$MIDGR_NPC_10_0100_12600_00_mma,Definitely! The place feels a lot livelier with Aerith around.
+$MIDGR_NPC_10_0100_12700_00_mma,"Plus, without her special spice, the food just doesn't taste the same."
+$MIDGR_NPC_10_0100_12800_00_mfa,"Exactly! Lately, Marle's stew has been lacking flavor."
+$MIDGR_NPC_10_0100_12900_00_mma,Thanks for all your support! Come check out our closing sale!
+$MIDGR_NPC_10_0100_13000_00_mma,We're selling everything we have left in stock! Don’t miss your final chance to buy something!
+$MIDGR_NPC_10_0100_13100_00_mma,How about taking a little something as a memory? We’re giving away free gifts! Come on over!
+$MIDGR_NPC_10_0100_13200_00_mma,"You're guaranteed to feel happy! But remember, only one per person!"
+$MIDGR_NPC_10_0100_13300_00_mfa,How about some sweet snacks? They're completely free right now!
+$MIDGR_NPC_10_0100_13400_00_mfa,"Kids, take whichever one you like!"
+$MIDGR_NPC_10_0100_13500_00_mma,Here's a memento photo. Say cheese!
+$MIDGR_NPC_10_0100_13600_00_mma,"Alright, 'Faithful Stamp'!"
+$MIDGR_NPC_10_0100_13800_00_mma,I'd like our final photo to be taken by a professional.
+$MIDGR_NPC_10_0100_13900_00_mma,I hope I can manage a good smile...
+$MIDGR_NPC_10_0100_14000_00_mfa,Take a picture of us next!
+$MIDGR_NPC_10_0100_14100_00_mfa,I hope it turns out beautifully.
+$MIDGR_NPC_10_0100_14200_00_mfa,I wish we had taken a lot more photos.

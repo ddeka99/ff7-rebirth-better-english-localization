@@ -1,4 +1,8 @@
 external-tools
-testing
 .env
 *.json
+testing/Exports
+testing/Imports
+testing/logs
+testing/mods
+testing/Ready for Import
