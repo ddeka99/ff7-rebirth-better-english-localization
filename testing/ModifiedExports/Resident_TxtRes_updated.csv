@@ -966,63 +966,63 @@ $CARDG_QST_03_0300_0600_00_rdl,,
 $CARDG_QST_03_0300_0600_00_rdl,ACTOR,
 $CARDG_QST_03_0300_0700_00_rdl,,It's all too late.
 $CARDG_QST_03_0300_0700_00_rdl,ACTOR,Lidrehl
-$CARDG_QST_03_0400_0100_00_wis,,Malfunction! Malfunction!
+$CARDG_QST_03_0400_0100_00_wis,,Error detected! Error detected!
 $CARDG_QST_03_0400_0100_00_wis,ACTOR,Wize
-$CARDG_QST_03_0400_0110_00_wis,,Abnormal levels detected.
+$CARDG_QST_03_0400_0110_00_wis,,Abnormal Bout levels detected.
 $CARDG_QST_03_0400_0110_00_wis,ACTOR,Wize
 $CARDG_QST_03_0400_0200_00_wis,,Running search... Complete.
 $CARDG_QST_03_0400_0200_00_wis,ACTOR,Wize
-$CARDG_QST_03_0400_0300_00_wis,,Levels confirmed to be a match for Queen's Blood creator Lidrehl Balmon.
+$CARDG_QST_03_0400_0300_00_wis,,"Levels confirmed to match those of Queen's Blood creator, Lidrehl Balmon."
 $CARDG_QST_03_0400_0300_00_wis,ACTOR,Wize
-$CARDG_QST_03_0400_0310_00_wis,,Conducting follow-up search...
+$CARDG_QST_03_0400_0310_00_wis,,Conducting additional search...
 $CARDG_QST_03_0400_0310_00_wis,ACTOR,Wize
-$CARDG_QST_03_0400_0400_00_wis,,Two hits: Mr. Balmon's obituary and a voice recording by the reporter who discovered the body.
+$CARDG_QST_03_0400_0400_00_wis,,Two results found: Mr. Balmon’s obituary and a voice recording from the reporter who discovered the body.
 $CARDG_QST_03_0400_0400_00_wis,ACTOR,Wize
-$CARDG_QST_03_0400_0500_00_wis,,Preparing voice recording...
+$CARDG_QST_03_0400_0500_00_wis,,Playing voice recording...
 $CARDG_QST_03_0400_0500_00_wis,ACTOR,Wize
-$CARDG_QST_03_0400_0600_00_rpt,,<i>I'm currently standing outside the home of Lidrehl Balmon─the famed creator of Queen's Blood.</i>
+$CARDG_QST_03_0400_0600_00_rpt,,*I'm currently standing outside the home of Lidrehl Balmon—the famed creator of Queen's Blood.*
 $CARDG_QST_03_0400_0600_00_rpt,ACTOR,<i>Reporter</i>
-$CARDG_QST_03_0400_0700_00_rpt,,"<i>Now, let's hope he's willing to answer a few questions for us.</i>"
+$CARDG_QST_03_0400_0700_00_rpt,,"*Now, let's see if he's willing to answer a few questions.*"
 $CARDG_QST_03_0400_0700_00_rpt,ACTOR,<i>Reporter</i>
-$CARDG_QST_03_0400_0800_00_rpt,,<i>What's this smell? It's awful!</i>
+$CARDG_QST_03_0400_0800_00_rpt,,*What is that smell? It's awful!*
 $CARDG_QST_03_0400_0800_00_rpt,ACTOR,<i>Reporter</i>
-$CARDG_QST_03_0400_0810_00_rpt,,<i>Mr. Balmon? Are you home?</i>
+$CARDG_QST_03_0400_0810_00_rpt,,*Mr. Balmon? Are you home?*
 $CARDG_QST_03_0400_0810_00_rpt,ACTOR,<i>Reporter</i>
-$CARDG_QST_03_0400_0900_00_rpt,,<i>Oh my god. I can't believe it... Mr. Balmon is dead!</i>
+$CARDG_QST_03_0400_0900_00_rpt,,*Oh my god. I can't believe it... Mr. Balmon is dead!*
 $CARDG_QST_03_0400_0900_00_rpt,ACTOR,<i>Reporter</i>
-$CARDG_QST_03_0400_1000_00_rpt,,<i>How long has he been in here!?</i>
+$CARDG_QST_03_0400_1000_00_rpt,,*How long has he been here!?*
 $CARDG_QST_03_0400_1000_00_rpt,ACTOR,<i>Reporter</i>
-$CARDG_QST_03_0400_1100_00_rpt,,<i>It must've been ages! His body is...</i>
+$CARDG_QST_03_0400_1100_00_rpt,,"*Judging by the state of decomposition, it's been quite some time.*"
 $CARDG_QST_03_0400_1100_00_rpt,ACTOR,<i>Reporter</i>
-$CARDG_QST_03_0400_1200_00_wis,,The results of the autopsy revealed the cause of death to be starvation.
+$CARDG_QST_03_0400_1200_00_wis,,A later autopsy determined the cause of death to be starvation.
 $CARDG_QST_03_0400_1200_00_wis,ACTOR,Wize
-$CARDG_QST_03_0400_1300_00_wis,,"The state in which he was found suggests that he had been playing Queen's Blood without stopping to eat, drink, or sleep."
+$CARDG_QST_03_0400_1300_00_wis,,"Evidence suggests that Mr. Balmon had been playing Queen's Blood without stopping to eat, drink, or sleep."
 $CARDG_QST_03_0400_1300_00_wis,ACTOR,Wize
-$CARDG_QST_03_0400_1400_00_rpt,,"<i>I've found numerous cards scattered on the floor around him, and... Hold on. What's this?</i>"
+$CARDG_QST_03_0400_1400_00_rpt,,"*There are countless cards scattered around the body, and... wait, hold on.*"
 $CARDG_QST_03_0400_1400_00_rpt,ACTOR,<i>Reporter</i>
-$CARDG_QST_03_0400_1500_00_rpt,,<i>That card... It looks like...the Shadowblood─</i>
+$CARDG_QST_03_0400_1500_00_rpt,,*That card... No way... The Shadowblood—*
 $CARDG_QST_03_0400_1500_00_rpt,ACTOR,<i>Reporter</i>
-$CARDG_QST_03_0400_1600_00_wis,,The recording breaks up after that.
+$CARDG_QST_03_0400_1600_00_wis,,The recording cuts off here.
 $CARDG_QST_03_0400_1600_00_wis,ACTOR,Wize
-$CARDG_QST_03_0400_1700_00_wis,,"As it so happens, Mr. Balmon was in possession of the world's one and only Shadowblood Queen card."
+$CARDG_QST_03_0400_1700_00_wis,,"As it turns out, Mr. Balmon was in possession of the world's only Shadowblood Queen card."
 $CARDG_QST_03_0400_1700_00_wis,ACTOR,Wize
-$CARDG_QST_03_0400_1800_00_wis,,"However, the card was not found in his home, leading to theories that the reporter who discovered the body stole it."
+$CARDG_QST_03_0400_1800_00_wis,,"However, the card was missing from his belongings, leading to speculation that the reporter who found the body stole it."
 $CARDG_QST_03_0400_1800_00_wis,ACTOR,Wize
-$CARDG_QST_03_0400_1900_00_wis,,"The reporter in question subsequently went missing, a─"
+$CARDG_QST_03_0400_1900_00_wis,,"The reporter in question later went missing, a—"
 $CARDG_QST_03_0400_1900_00_wis,ACTOR,Wize
-$CARDG_QST_03_0400_2000_00_wis,,Unexpected shutdown occurred.
+$CARDG_QST_03_0400_2000_00_wis,,Unexpected shutdown detected.
 $CARDG_QST_03_0400_2000_00_wis,ACTOR,Wize
-$CARDG_QST_03_0400_2010_00_wis,,System rebooting... Do not shut off power.
+$CARDG_QST_03_0400_2010_00_wis,,System rebooting... Please do not turn off power.
 $CARDG_QST_03_0400_2010_00_wis,ACTOR,Wize
 $CARDG_QST_03_0400_2100_00_wis,,What was I doing?
 $CARDG_QST_03_0400_2100_00_wis,ACTOR,Wize
-$CARDG_QST_03_0400_2200_00_wis,,Memory restored.
+$CARDG_QST_03_0400_2200_00_wis,,"Ah, that's right."
 $CARDG_QST_03_0400_2200_00_wis,ACTOR,Wize
-$CARDG_QST_03_0400_2210_00_wis,,I had just registered a loss against you in a game of Queen's Blood.
+$CARDG_QST_03_0400_2210_00_wis,,I had just recorded a loss against you in a game of Queen's Blood.
 $CARDG_QST_03_0400_2210_00_wis,ACTOR,Wize
 $CARDG_QST_03_0400_2210_10_cld,,Yeah...
 $CARDG_QST_03_0400_2210_10_cld,ACTOR,Cloud
-$CARDG_QST_03_0400_2300_00_wis,,Version update required to secure path to world domination.
+$CARDG_QST_03_0400_2300_00_wis,,Updating system to secure victory next time.
 $CARDG_QST_03_0400_2300_00_wis,ACTOR,Wize
 $CARDG_QST_03_0400_2400_00_wis,,Thank you very much for playing with me.
 $CARDG_QST_03_0400_2400_00_wis,ACTOR,Wize

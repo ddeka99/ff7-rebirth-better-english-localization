@@ -7336,77 +7336,77 @@ $CORLV_NPC_10_1100_3400_00_mma,,We need to get the supplies from the Gold Saucer
 $CORLV_NPC_10_1100_3500_00_mma,,"Oh, this feels so good...so, so good..."
 $CORLV_NPC_10_1100_3600_00_mma,,"The work is so much fun, and the pay is great too."
 $CORLV_NPC_10_1100_3700_00_mma,,This is my dream job...I can't get enough of it!
-$COSTT_BOS_06_1100_0100_00_hjo,,Oh? Leaving so soon?
+$COSTT_BOS_06_1100_0100_00_hjo,,"Oh? Running away, are we?"
 $COSTT_BOS_06_1100_0100_00_hjo,ACTOR,Hojo
-$COSTT_BOS_06_1100_0110_00_hjo,,Intriguing. It appears you do not yet seek the reunion.
+$COSTT_BOS_06_1100_0110_00_hjo,,I see. So you still don't wish to reunite.
 $COSTT_BOS_06_1100_0110_00_hjo,ACTOR,Hojo
-$COSTT_BOS_06_1100_0200_00_hjo,,"There is nothing to fear. Come with me,<br>and you can play a part in furthering<br>the development of mankind!"
+$COSTT_BOS_06_1100_0200_00_hjo,,"There's nothing to fear. Come with me, and you can contribute to the evolution of mankind."
 $COSTT_BOS_06_1100_0200_00_hjo,ACTOR,Hojo
-$COSTT_BOS_06_1100_0300_00_hjo,,"Aw, I think your friends are lonely. Let's see if we can't make them scream a little while we're at it! Hahaha!"
+$COSTT_BOS_06_1100_0300_00_hjo,,Your friends seem lonely. Shall we make them call out to you with their screams? Heh heh!
 $COSTT_BOS_06_1100_0300_00_hjo,ACTOR,Hojo
-$COSTT_BOS_06_1100_0400_00_hjo,,Hahaha... Fascinating. I'll have to cut you open and study the mysteries contained within your every cell.
+$COSTT_BOS_06_1100_0400_00_hjo,,Heh heh... Truly fascinating. I must cut you open and examine every last cell.
 $COSTT_BOS_06_1100_0400_00_hjo,ACTOR,Hojo
-$COSTT_BOS_06_1100_0500_00_hjo,,"If you truly cared about my test subjects, you'd give yourself up."
+$COSTT_BOS_06_1100_0500_00_hjo,,"Why not surrender quietly, just like your pitiful brethren?"
 $COSTT_BOS_06_1100_0500_00_hjo,ACTOR,Hojo
-$COSTT_BOS_06_1100_0600_00_hjo,,How does it feel to be helpless and impotent─to know death is inevitable?
+$COSTT_BOS_06_1100_0600_00_hjo,,How does it feel to be slowly cornered? Hmm?
 $COSTT_BOS_06_1100_0600_00_hjo,ACTOR,Hojo
-$COSTT_BOS_06_1100_0700_00_hjo,,Is that what your instincts tell you to do? Flail about in futility?
+$COSTT_BOS_06_1100_0700_00_hjo,,Are you running around because you want to? Heh heh!
 $COSTT_BOS_06_1100_0700_00_hjo,ACTOR,Hojo
-$COSTT_BOS_06_1100_0800_00_hjo,,Are you truly so terrified at the thought of coming with me?
+$COSTT_BOS_06_1100_0800_00_hjo,,Are you really that afraid of coming with me?
 $COSTT_BOS_06_1100_0800_00_hjo,ACTOR,Hojo
-$COSTT_BOS_06_1100_0900_00_cld,,Not good.
+$COSTT_BOS_06_1100_0900_00_cld,,This is bad...
 $COSTT_BOS_06_1100_0900_00_cld,ACTOR,Cloud
-$COSTT_BOS_06_1100_1000_00_cld,,Got you!
+$COSTT_BOS_06_1100_1000_00_cld,,Now's my chance!
 $COSTT_BOS_06_1100_1000_00_cld,ACTOR,Cloud
-$COSTT_BOS_06_1100_1100_00_cld,,"Hold on, guys!"
+$COSTT_BOS_06_1100_1100_00_cld,,Hit 'em all at once!
 $COSTT_BOS_06_1100_1100_00_cld,ACTOR,Cloud
-$COSTT_BOS_06_1100_1200_00_cld,,Gotta stay clear.
+$COSTT_BOS_06_1100_1200_00_cld,,Can I hold out...?
 $COSTT_BOS_06_1100_1200_00_cld,ACTOR,Cloud
-$COSTT_BOS_06_1100_1300_00_cld,,Ain't goin' near that.
+$COSTT_BOS_06_1100_1300_00_cld,,Not going down that easy.
 $COSTT_BOS_06_1100_1300_00_cld,ACTOR,Cloud
-$COSTT_BOS_06_1100_1400_00_hjo,,"I'd rather not kill you, but I'm afraid you've forced my hand. You can contribute to science as a corpse."
+$COSTT_BOS_06_1100_1400_00_hjo,,"You're a valuable specimen, but I have no choice. You'll contribute to science as a corpse."
 $COSTT_BOS_06_1100_1400_00_hjo,ACTOR,Hojo
-$COSTT_BOS_06_1100_1500_00_hjo,,"My time is valuable, and I've no further desire to waste it on you."
+$COSTT_BOS_06_1100_1500_00_hjo,,I have no desire to waste any more of my precious time on you.
 $COSTT_BOS_06_1100_1500_00_hjo,ACTOR,Hojo
-$COSTT_BOS_06_1100_1600_00_hjo,,Truly brilliant men of science bear a responsibility. We are the light that must guide the ignorant masses toward progress.
+$COSTT_BOS_06_1100_1600_00_hjo,,Do you understand? Brilliant scientists bear the responsibility of guiding foolish humanity toward evolution.
 $COSTT_BOS_06_1100_1600_00_hjo,ACTOR,Hojo
-$COSTT_BOS_06_1100_1700_00_hjo,,"Let's see, once I'm done here, then it's straight back to the lab. My experiments won't conduct themselves."
+$COSTT_BOS_06_1100_1700_00_hjo,,"Now, once I return to the company... Ah, yes. I must resume that experiment."
 $COSTT_BOS_06_1100_1700_00_hjo,ACTOR,Hojo
-$COSTT_BOS_06_1100_1800_00_hjo,,The specimens exhibited a variety of mutations upon exposure. But can they survive such violent genetic changes?
+$COSTT_BOS_06_1100_1800_00_hjo,,"The variety of specimens is excellent, but the real question is... can the host endure?"
 $COSTT_BOS_06_1100_1800_00_hjo,ACTOR,Hojo
-$COSTT_BOS_06_1100_1900_00_hjo,,Ohoho... I stand upon the cusp of a breakthrough: a hero's birth!
+$COSTT_BOS_06_1100_1900_00_hjo,,Heh heh... The creation of a hero will soon become a reality.
 $COSTT_BOS_06_1100_1900_00_hjo,ACTOR,Hojo
-$COSTT_BOS_06_1100_2000_00_hjo,,You're beginning to bore me. How much longer do you intend to drag this out?
+$COSTT_BOS_06_1100_2000_00_hjo,,How dull... How much longer do you plan to drag this out?
 $COSTT_BOS_06_1100_2000_00_hjo,ACTOR,Hojo
-$COSTT_BOS_06_1100_2100_00_hjo,,Can you please stop with all this pointless struggling?
+$COSTT_BOS_06_1100_2100_00_hjo,,Enough with the pointless resistance.
 $COSTT_BOS_06_1100_2100_00_hjo,ACTOR,Hojo
-$COSTT_BOS_06_1100_2200_00_hjo,,"Well, well. Impressive!"
+$COSTT_BOS_06_1100_2200_00_hjo,,Oh? Not bad at all.
 $COSTT_BOS_06_1100_2200_00_hjo,ACTOR,Hojo
-$COSTT_BOS_06_1100_2300_00_hjo,,Do give it your best shot!
+$COSTT_BOS_06_1100_2300_00_hjo,,Do give it your best effort.
 $COSTT_BOS_06_1100_2300_00_hjo,ACTOR,Hojo
-$COSTT_BOS_06_1100_2400_00_hjo,,Haha! Is that all you've got?
+$COSTT_BOS_06_1100_2400_00_hjo,,Heh... Is that the best you can do?
 $COSTT_BOS_06_1100_2400_00_hjo,ACTOR,Hojo
-$COSTT_BOS_06_1100_2500_00_hjo,,Hmph... Let's see what you can do.
+$COSTT_BOS_06_1100_2500_00_hjo,,Hmph... I'll give you a chance.
 $COSTT_BOS_06_1100_2500_00_hjo,ACTOR,Hojo
-$COSTT_BOS_06_1100_2600_00_hjo,,Go on now! Best be quick! Hahaha!
+$COSTT_BOS_06_1100_2600_00_hjo,,"Come now, hurry, hurry! Heh heh!"
 $COSTT_BOS_06_1100_2600_00_hjo,ACTOR,Hojo
-$COSTT_BOS_06_1100_2700_00_hjo,,You should be honored!
+$COSTT_BOS_06_1100_2700_00_hjo,,You should consider yourself honored.
 $COSTT_BOS_06_1100_2700_00_hjo,ACTOR,Hojo
-$COSTT_BOS_06_1100_2800_00_hjo,,Breathe it deep into your lungs!
+$COSTT_BOS_06_1100_2800_00_hjo,,Breathe it in—deep into your lungs.
 $COSTT_BOS_06_1100_2800_00_hjo,ACTOR,Hojo
-$COSTT_BOS_06_1100_2900_00_hjo,,Ahaha! How are you feeling!?
+$COSTT_BOS_06_1100_2900_00_hjo,,Heh heh... How are you feeling?
 $COSTT_BOS_06_1100_2900_00_hjo,ACTOR,Hojo
-$COSTT_BOS_06_1100_3000_00_hjo,,Hahaha... I wonder if you can escape <i>this</i>.
+$COSTT_BOS_06_1100_3000_00_hjo,,Heh heh heh... Think you can find a way out?
 $COSTT_BOS_06_1100_3000_00_hjo,ACTOR,Hojo
-$COSTT_BOS_06_1100_3100_00_hjo,,I want to see the fear in your eyes as you beg for your life.
+$COSTT_BOS_06_1100_3100_00_hjo,,"Come now, show me your face twisted in fear."
 $COSTT_BOS_06_1100_3100_00_hjo,ACTOR,Hojo
-$COSTT_BOS_06_1100_3200_00_hjo,,You'll be a charred husk when I'm done with you.
+$COSTT_BOS_06_1100_3200_00_hjo,,It's about time I reduced you to dust.
 $COSTT_BOS_06_1100_3200_00_hjo,ACTOR,Hojo
-$COSTT_BOS_06_1100_3300_00_hjo,,Allow me to reduce you to your component cells.
+$COSTT_BOS_06_1100_3300_00_hjo,,I'll cut you down to your very cells.
 $COSTT_BOS_06_1100_3300_00_hjo,ACTOR,Hojo
-$COSTT_BOS_06_1100_3400_00_hjo,,Haha! I love a moving target!
+$COSTT_BOS_06_1100_3400_00_hjo,,"Heh heh... Go on, run around in vain!"
 $COSTT_BOS_06_1100_3400_00_hjo,ACTOR,Hojo
-$COSTT_BOS_06_1100_3500_00_hjo,,I admit I'm one to toy with my prey.
+$COSTT_BOS_06_1100_3500_00_hjo,,I do so enjoy toying with my prey.
 $COSTT_BOS_06_1100_3500_00_hjo,ACTOR,Hojo
 $COSTT_NPC_10_0100_0100_00_mma,,The beach is calling my name!
 $COSTT_NPC_10_0100_0200_00_mma,,Only way to beat this kinda heat is to go for a swim!
