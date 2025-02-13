@@ -1,0 +1,1 @@
+- Chapter 1 Main Scenario: Tifa's home cutscene. Dialogues are 'You had a cat, remember?' and 'Cloud here' needs to be changed to 'I had a cat, remember' and 'Right here?'
